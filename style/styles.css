@@ -1,0 +1,29 @@
+body{
+  background-color:#F6F6F6;
+}
+hr {
+
+  border-style:dotted none none;
+  border-color:#7D9D9C;
+  border-width:5px;
+  width:1600px;
+}
+h1{
+  color:#444941;
+}
+h3{
+  color:#7D9D9C;
+}
+h3:hover{
+  font-size:30px;
+  color:#534340;
+}
+h1:hover{
+  color:#7D9D9C;
+}
+table{
+  color:#89B5AF;
+}
+table{
+  color:#354259;
+}
